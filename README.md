@@ -30,12 +30,11 @@ You can connect with me on,
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/U4FhLNfZiY0ZY6bnEs/giphy.gif" width="50"></h3>
 
-- 🎓 &nbsp; Studying Computer Science at FAST National University.
+- 🎓 &nbsp; Studying Computer Science.
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Learning more about Programming Languages, Web Development and App Development.
 - 🥋 &nbsp; My hobbies are playing sport and watching series.
 - 🎧 &nbsp; “Your time is limited, so don't waste it living someone else's life.” ― Steve Jobs
-- 📫 How to reach me phone:- 03446237173.
-- 📫 How to reach me Email:- p200070@pwr.nu.edu.pk.
+- 📫 How to reach me Phone:- 03446237173.
 
 
